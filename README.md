@@ -14,6 +14,7 @@ Recognizing things in their natural settings is one of the most fascinating chal
 
 # 🔨 About Custom Model
 **🧠 Custom Convolutional Neural Network (CNN) Model**
+
 This custom CNN model uses multiple convolutional layers (Conv2D) with activation functions like ReLU and LeakyReLU. It includes batch normalization, pooling layers (AveragePooling2D), and dropout for regularization. The model ends with dense layers and a softmax output layer for multi-class classification.
 
 # 🎢 Summary 
