@@ -17,7 +17,7 @@ Recognizing things in their natural settings is one of the most fascinating chal
 This custom CNN model uses multiple convolutional layers (Conv2D) with activation functions like ReLU and LeakyReLU. It includes batch normalization, pooling layers (AveragePooling2D), and dropout for regularization. The model ends with dense layers and a softmax output layer for multi-class classification.
 
 # 🎢 Summary 
-We have created customized model for the Recognizing Street View Housing Number over Gray Image using the SVHN_single_grey1.h5 file. Model accuracy is 95.248% for training and 93.794% for testing.
+We have created customized model for the Recognizing Street View Housing Number over Gray Image using the SVHN_single_grey1.h5 file. Model accuracy is **95.248% for training and 93.794% for testing**.
 
 By working on with layers/normalization/ image Data Genaration, we can improve the accuracy and drop down the loss.
 
